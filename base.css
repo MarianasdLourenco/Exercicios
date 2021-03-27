@@ -5,7 +5,7 @@
 }
 
 ::selection {
-  background: #0c90a1;
+  background: 8ffcec;
   color: #fff;
   text-shadow: none;
 }
@@ -14,7 +14,7 @@ html {
   font: 1em/1.25 -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
     Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial,
     sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
-  background: #151515;
+  background: aa041a;
   color: #fffb;
   height: 100%;
 }
@@ -57,7 +57,7 @@ h6 {
 }
 
 h1 {
-  color: #18cfe7;
+  color: #2c1301;
 }
 
 h2 {
